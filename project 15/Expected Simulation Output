@@ -1,0 +1,6 @@
+Time=0  | Reset=1 | Q=0001
+Time=15 | Reset=0 | Q=0010
+Time=25 | Reset=0 | Q=0100
+Time=35 | Reset=0 | Q=1000
+Time=45 | Reset=0 | Q=0001
+Time=55 | Reset=0 | Q=0010
